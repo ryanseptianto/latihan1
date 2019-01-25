@@ -65,7 +65,7 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
    10. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"
    
-      ![gambar11](https://user-images.githubusercontent.com/46926758/51749597-6161ae00-20e2-11e9-84d0-d6a7e00e09d1.png)
+   ![gambar11](https://user-images.githubusercontent.com/46926758/51749597-6161ae00-20e2-11e9-84d0-d6a7e00e09d1.png)
 
    11. Buat repository server, isi nama repositorynya semisal : latihan1 ,kemudian klik tombol Creat repository
    
@@ -101,6 +101,8 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 SEKIAN DAN TRIMAKASIH
 
-NAMA  : RYAN SEPTIANTO
-NIM   : 311810417
-KELAS : TI 18 B1
+# NAMA  : RYAN SEPTIANTO
+
+# NIM   : 311810417
+
+# KELAS : TI 18 B1
